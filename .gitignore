@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+*.env
+*.pyc
+*.xml
+*.meta
